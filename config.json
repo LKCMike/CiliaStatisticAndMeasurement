@@ -1,0 +1,5 @@
+{
+    "Minimal Confidence": 0.25,
+    "Intersection over Union Threshold": 0.4,
+    "Brightness Decay Limit": 1
+}
